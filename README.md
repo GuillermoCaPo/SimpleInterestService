@@ -8,7 +8,9 @@ mvn clean spring-boot:run
 or
 
 mvn clean install
-and
+
+and then 
+
 java -jar target/SimpleInterestService-0.0.1-SNAPSHOT.jar
 
 Execute those commands in root folder (no parent).
